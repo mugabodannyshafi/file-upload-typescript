@@ -1,0 +1,21 @@
+{
+  "name": "file-upload-typescript",
+  "version": "1.0.0",
+  "description": "Ts package for uploading, retrieving and deleting file to dropbox and local",
+  "main": "dist/index.js",
+  "scripts": {
+    "test:watchAll": "jest --watchAll"
+  },
+  "author": "MUGABO Shafi Danny",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.5.13",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.2.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "dropbox": "^10.34.0"
+  }
+}
