@@ -4,7 +4,8 @@
   "description": "Ts package for uploading, retrieving and deleting file to dropbox and local",
   "main": "dist/index.js",
   "scripts": {
-    "test:watchAll": "jest --watchAll"
+    "test:watchAll": "jest --watchAll",
+    "test": "jest"
   },
   "author": "MUGABO Shafi Danny",
   "license": "ISC",
